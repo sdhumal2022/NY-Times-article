@@ -1,38 +1,1247 @@
 {
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
   "results": [
-    {
-      "title": "Title 1",
-      "source": "Source 1",
-      "published_date": "2023-07-01",
-      "url": "http://example.com/article1",
-      "abstract": "Abstract 1",
-      "media": [
-        {
-          "type": "image",
-          "media-metadata": [
-            { "url": "http://example.com/image1_small.jpg", "height": 75, "width": 75 },
-            { "url": "http://example.com/image1_medium.jpg", "height": 150, "width": 150 },
-            { "url": "http://example.com/image1_large.jpg", "height": 300, "width": 300 }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Title 2",
-      "source": "Source 2",
-      "published_date": "2023-07-02",
-      "url": "http://example.com/article2",
-      "abstract": "Abstract 2",
-      "media": [
-        {
-          "type": "image",
-          "media-metadata": [
-            { "url": "http://example.com/image2_small.jpg", "height": 75, "width": 75 },
-            { "url": "http://example.com/image2_medium.jpg", "height": 150, "width": 150 },
-            { "url": "http://example.com/image2_large.jpg", "height": 300, "width": 300 }
-          ]
-        }
-      ]
-    }
+      {
+          "uri": "nyt://article/250484fc-a837-5f51-941d-81cdd07c8a6f",
+          "url": "https://www.nytimes.com/2024/07/14/us/ohio-mother-killed-carjacking.html",
+          "id": 100000009569932,
+          "asset_id": 100000009569932,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-15 01:30:14",
+          "section": "U.S.",
+          "subsection": "",
+          "nytdsection": "u.s.",
+          "adx_keywords": "Coronavirus (2019-nCoV);Automobiles;Carjacking;Robberies and Thefts;Crime and Criminals;Urban Areas;Bureau of Justice Statistics;Columbus Dispatch;Federal Bureau of Investigation;Justice Department;Chicago (Ill);Columbus (Ohio);Florida;Milwaukee (Wis);Ohio;Philadelphia (Pa);Tampa (Fla);Washington (DC)",
+          "column": null,
+          "byline": "By Ernesto Londoño",
+          "type": "Article",
+          "title": "Ohio Mother Killed Trying to Stop a Carjacking With Her Son Inside",
+          "abstract": "The woman, 29, was struck by her own vehicle after the suspects began driving away, the police said.",
+          "des_facet": [
+              "Coronavirus (2019-nCoV)",
+              "Automobiles",
+              "Carjacking",
+              "Robberies and Thefts",
+              "Crime and Criminals",
+              "Urban Areas"
+          ],
+          "org_facet": [
+              "Bureau of Justice Statistics",
+              "Columbus Dispatch",
+              "Federal Bureau of Investigation",
+              "Justice Department"
+          ],
+          "per_facet": [],
+          "geo_facet": [
+              "Chicago (Ill)",
+              "Columbus (Ohio)",
+              "Florida",
+              "Milwaukee (Wis)",
+              "Ohio",
+              "Philadelphia (Pa)",
+              "Tampa (Fla)",
+              "Washington (DC)"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "A woman in Columbus, Ohio, died after being struck by her own vehicle during a carjacking.",
+                  "copyright": "NBC",
+                  "approved_for_syndication": 0,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14nat-carjacking/14nat-carjacking-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14nat-carjacking/14nat-carjacking-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14nat-carjacking/14nat-carjacking-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/43f70c4a-a3d5-5ed5-9c67-9b0f34016398",
+          "url": "https://www.nytimes.com/2024/07/13/us/politics/doug-mills-trump-photo.html",
+          "id": 100000009570347,
+          "asset_id": 100000009570347,
+          "source": "New York Times",
+          "published_date": "2024-07-13",
+          "updated": "2024-07-14 13:05:44",
+          "section": "U.S.",
+          "subsection": "Politics",
+          "nytdsection": "u.s.",
+          "adx_keywords": "Assassinations and Attempted Assassinations;Presidential Election of 2024;United States Politics and Government;Photography;News and News Media;Trump, Donald J;Crooks, Thomas Matthew (2003-24);Mills, Doug;New York Times;Butler (Pa)",
+          "column": null,
+          "byline": "By Doug Mills",
+          "type": "Article",
+          "title": "A Times Photographer Who Was Feet Away From Trump Describes the Shooting",
+          "abstract": "“I hope I get the right shot. I hope I’m not shot myself,” said Doug Mills, who has been photographing presidents since 1983.",
+          "des_facet": [
+              "Assassinations and Attempted Assassinations",
+              "Presidential Election of 2024",
+              "United States Politics and Government",
+              "Photography",
+              "News and News Media"
+          ],
+          "org_facet": [
+              "New York Times"
+          ],
+          "per_facet": [
+              "Trump, Donald J",
+              "Crooks, Thomas Matthew (2003-24)",
+              "Mills, Doug"
+          ],
+          "geo_facet": [
+              "Butler (Pa)"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Secret Service agents surround Mr. Trump immediately after reports of gunfire at his rally.",
+                  "copyright": "Doug Mills/The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/13xp-mills/13xp-mills-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/13xp-mills/13xp-mills-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/13xp-mills/13xp-mills-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/7566769e-b223-5ff0-8bc5-53a597aeb092",
+          "url": "https://www.nytimes.com/2024/07/13/opinion/donald-trump-rally-shooting.html",
+          "id": 100000009570342,
+          "asset_id": 100000009570342,
+          "source": "New York Times",
+          "published_date": "2024-07-13",
+          "updated": "2024-07-14 19:27:03",
+          "section": "Opinion",
+          "subsection": "",
+          "nytdsection": "opinion",
+          "adx_keywords": "Assassinations and Attempted Assassinations;Presidential Election of 2024;Democracy (Theory and Philosophy);United States Politics and Government;Trump, Donald J;Crooks, Thomas Matthew (2003-24);Butler (Pa)",
+          "column": null,
+          "byline": "By The Editorial Board",
+          "type": "Article",
+          "title": "The Attack on Donald Trump Is Antithetical to America",
+          "abstract": "Any attempt to resolve an election through violence is abhorrent.",
+          "des_facet": [
+              "Assassinations and Attempted Assassinations",
+              "Presidential Election of 2024",
+              "Democracy (Theory and Philosophy)",
+              "United States Politics and Government"
+          ],
+          "org_facet": [],
+          "per_facet": [
+              "Trump, Donald J",
+              "Crooks, Thomas Matthew (2003-24)"
+          ],
+          "geo_facet": [
+              "Butler (Pa)"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "",
+                  "copyright": "Doug Mills/The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/13violence1-jmkc/13violence1-jmkc-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/13violence1-jmkc/13violence1-jmkc-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/13violence1-jmkc/13violence1-jmkc-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/2f3dcb54-2631-5c49-9671-8ed54bfda748",
+          "url": "https://www.nytimes.com/2024/07/14/opinion/biden-leadership-truth.html",
+          "id": 100000009568750,
+          "asset_id": 100000009568750,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-14 06:00:28",
+          "section": "Opinion",
+          "subsection": "",
+          "nytdsection": "opinion",
+          "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Polls and Public Opinion;Psychology and Psychologists",
+          "column": null,
+          "byline": "By Adam Grant",
+          "type": "Article",
+          "title": "The Reason People Are Not Telling Biden the Truth",
+          "abstract": "Many leaders have faced a similar situation. There are simple solutions.",
+          "des_facet": [
+              "United States Politics and Government",
+              "Presidential Election of 2024",
+              "Polls and Public Opinion",
+              "Psychology and Psychologists"
+          ],
+          "org_facet": [],
+          "per_facet": [],
+          "geo_facet": [],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "",
+                  "copyright": "Damon Winter/The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/15grant-kctp/15grant-kctp-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/15grant-kctp/15grant-kctp-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/15grant-kctp/15grant-kctp-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/7b8625b5-8f03-5d27-85d2-8565f8c56f65",
+          "url": "https://www.nytimes.com/2024/07/14/style/princess-kate-middleton-wimbeldon-style.html",
+          "id": 100000009570646,
+          "asset_id": 100000009570646,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-15 12:04:38",
+          "section": "Style",
+          "subsection": "",
+          "nytdsection": "style",
+          "adx_keywords": "your-feed-fashion;Tennis;Royal Families;Wimbledon Tennis Tournament;Fashion and Apparel;Catherine, Princess of Wales;Safiyaa (Fashion Label);Great Britain",
+          "column": null,
+          "byline": "By Vanessa Friedman",
+          "type": "Article",
+          "title": "Catherine, Princess of Wales, in Purple, Is a Wimbledon Winner",
+          "abstract": "In her second public appearance since her cancer diagnosis, the princess once again made a considered choice.",
+          "des_facet": [
+              "your-feed-fashion",
+              "Tennis",
+              "Royal Families",
+              "Wimbledon Tennis Tournament",
+              "Fashion and Apparel"
+          ],
+          "org_facet": [
+              "Safiyaa (Fashion Label)"
+          ],
+          "per_facet": [
+              "Catherine, Princess of Wales"
+          ],
+          "geo_facet": [
+              "Great Britain"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Catherine, Princess of Wales, presented the trophy to Carlos Alcaraz after he won the men’s singles final against Novak Djokovic.",
+                  "copyright": "Matthew Childs/Reuters",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14CATHERINE-WIMBELDON-STYLE-01-mctw/14CATHERINE-WIMBELDON-STYLE-01-mctw-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14CATHERINE-WIMBELDON-STYLE-01-mctw/14CATHERINE-WIMBELDON-STYLE-01-mctw-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14CATHERINE-WIMBELDON-STYLE-01-mctw/14CATHERINE-WIMBELDON-STYLE-01-mctw-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/ae7afd08-d139-5743-983c-adf9b5169a0f",
+          "url": "https://www.nytimes.com/2024/07/14/opinion/trump-rally-shooting-reagan.html",
+          "id": 100000009570404,
+          "asset_id": 100000009570404,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-15 06:54:51",
+          "section": "Opinion",
+          "subsection": "",
+          "nytdsection": "opinion",
+          "adx_keywords": "Assassinations and Attempted Assassinations;Presidential Election of 2024;Trump, Donald J;Reagan, Ronald Wilson;Butler (Pa)",
+          "column": null,
+          "byline": "By Patti Davis",
+          "type": "Article",
+          "title": "A Shooting Changes a Family. And It Can Change a Nation.",
+          "abstract": "I pray we learn the right lessons from this awful event.",
+          "des_facet": [
+              "Assassinations and Attempted Assassinations",
+              "Presidential Election of 2024"
+          ],
+          "org_facet": [],
+          "per_facet": [
+              "Trump, Donald J",
+              "Reagan, Ronald Wilson"
+          ],
+          "geo_facet": [
+              "Butler (Pa)"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Ronald Reagan being whisked into a car immediately after having been shot.",
+                  "copyright": "Ron Edmonds/Associated Press",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/opinion/14davis1/13davis1-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/opinion/14davis1/13davis1-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/opinion/14davis1/13davis1-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/ab06d8ff-de64-5260-a246-4fbe5ca499ec",
+          "url": "https://www.nytimes.com/2024/07/15/world/asia/japan-randoseru-backpack.html",
+          "id": 100000009484085,
+          "asset_id": 100000009484085,
+          "source": "New York Times",
+          "published_date": "2024-07-15",
+          "updated": "2024-07-15 09:11:22",
+          "section": "World",
+          "subsection": "Asia Pacific",
+          "nytdsection": "world",
+          "adx_keywords": "Education (K-12);Backpacks;Customs, Etiquette and Manners;Japan",
+          "column": null,
+          "byline": "By Motoko Rich and Noriko Hayashi",
+          "type": "Article",
+          "title": "The Book Bag That Binds Japanese Society",
+          "abstract": "No rule requires Japan’s elementary school students to wear the boxy, bulky backpack known as the randoseru. But for nearly 150 years, nearly all of them have.",
+          "des_facet": [
+              "Education (K-12)",
+              "Backpacks",
+              "Customs, Etiquette and Manners"
+          ],
+          "org_facet": [],
+          "per_facet": [],
+          "geo_facet": [
+              "Japan"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Nearly every elementary school student in Japan carries a book bag known as a randoseru, a staple of Japanese childhood for close to 150 years.",
+                  "copyright": "Noriko Hayashi for The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/05/23/world/00japan-randoseru-promo/00japan-randoseru-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/05/23/world/00japan-randoseru-promo/00japan-randoseru-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/05/23/world/00japan-randoseru-promo/00japan-randoseru-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/00765f06-c007-52be-bed9-a45f6576a281",
+          "url": "https://www.nytimes.com/2024/07/13/us/politics/donald-trump-rally-shooting-2024-campaign.html",
+          "id": 100000009570227,
+          "asset_id": 100000009570227,
+          "source": "New York Times",
+          "published_date": "2024-07-13",
+          "updated": "2024-07-15 13:14:51",
+          "section": "U.S.",
+          "subsection": "Politics",
+          "nytdsection": "u.s.",
+          "adx_keywords": "Assassinations and Attempted Assassinations;United States Politics and Government;Presidential Election of 2024;Trump, Donald J;Crooks, Thomas Matthew (2003-24);Butler (Pa)",
+          "column": null,
+          "byline": "By Shawn McCreesh",
+          "type": "Article",
+          "title": "Amid the Mayhem, Trump Pumped His Fist and Revealed His Instincts",
+          "abstract": "A bloodied Donald J. Trump made Secret Service agents wait while he expressed his defiance. The moment epitomized his visceral connection with his supporters, and his mastery of the modern media age.",
+          "des_facet": [
+              "Assassinations and Attempted Assassinations",
+              "United States Politics and Government",
+              "Presidential Election of 2024"
+          ],
+          "org_facet": [],
+          "per_facet": [
+              "Trump, Donald J",
+              "Crooks, Thomas Matthew (2003-24)"
+          ],
+          "geo_facet": [
+              "Butler (Pa)"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Former President Donald J. Trump pumped his fist in the air as Secret Service agents ushered him offstage on Saturday.",
+                  "copyright": "Eric Lee/The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/pol-scene-1-hqgz/pol-scene-1-hqgz-thumbStandard-v2.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/pol-scene-1-hqgz/pol-scene-1-hqgz-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/pol-scene-1-hqgz/pol-scene-1-hqgz-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/2fe2e332-829b-5506-a114-3eaea8b7d0af",
+          "url": "https://www.nytimes.com/2024/07/14/health/therapy-family-estrangement.html",
+          "id": 100000009409866,
+          "asset_id": 100000009409866,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-15 09:48:06",
+          "section": "Health",
+          "subsection": "",
+          "nytdsection": "health",
+          "adx_keywords": "Social Media;Therapy and Rehabilitation;Child Abuse and Neglect;Children and Childhood;Psychology and Psychologists;Mental Health and Disorders;Parenting;Families and Family Life;Content Type: Personal Profile;your-feed-science;your-feed-healthcare;Teahan, Patrick;United States",
+          "column": null,
+          "byline": "By Ellen Barry",
+          "type": "Article",
+          "title": "Is Cutting Off Your Family Good Therapy?",
+          "abstract": "Encouraged on social media, many Americans are estranging themselves from their families as a therapeutic step.",
+          "des_facet": [
+              "Social Media",
+              "Therapy and Rehabilitation",
+              "Child Abuse and Neglect",
+              "Children and Childhood",
+              "Psychology and Psychologists",
+              "Mental Health and Disorders",
+              "Parenting",
+              "Families and Family Life",
+              "Content Type: Personal Profile",
+              "your-feed-science",
+              "your-feed-healthcare"
+          ],
+          "org_facet": [],
+          "per_facet": [
+              "Teahan, Patrick"
+          ],
+          "geo_facet": [
+              "United States"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "",
+                  "copyright": "Lucy Jones",
+                  "approved_for_syndication": 0,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/science/14NOCONTACT-Cover/14NOCONTACT-Cover-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/science/14NOCONTACT-Cover/14NOCONTACT-Cover-mediumThreeByTwo210-v2.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/science/14NOCONTACT-Cover/14NOCONTACT-Cover-mediumThreeByTwo440-v2.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/44525745-6f85-54f7-aa5c-42165d9cd0ba",
+          "url": "https://www.nytimes.com/2024/07/09/opinion/trump-shooting-effects-tipsheet.html",
+          "id": 100000009570890,
+          "asset_id": 100000009570890,
+          "source": "New York Times",
+          "published_date": "2024-07-15",
+          "updated": "2024-07-15 11:27:26",
+          "section": "Opinion",
+          "subsection": "",
+          "nytdsection": "opinion",
+          "adx_keywords": "Assassinations and Attempted Assassinations;Presidential Election of 2024;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J",
+          "column": null,
+          "byline": "By Charles M. Blow",
+          "type": "Article",
+          "title": "How the Attempted Assassination of Trump Could Change the Campaign",
+          "abstract": "Six political effects of the attempted assassination.",
+          "des_facet": [
+              "Assassinations and Attempted Assassinations",
+              "Presidential Election of 2024",
+              "United States Politics and Government"
+          ],
+          "org_facet": [],
+          "per_facet": [
+              "Biden, Joseph R Jr",
+              "Trump, Donald J"
+          ],
+          "geo_facet": [],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Watching coverage of the shooting inside the convention hall in Milwaukee.",
+                  "copyright": "Angela Weiss/Agence France-Presse — Getty Images",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/15blow-glfk/15blow-glfk-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/15blow-glfk/15blow-glfk-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/15blow-glfk/15blow-glfk-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/c62a6f83-9dd3-583a-9af3-5629e8a2587b",
+          "url": "https://www.nytimes.com/2024/07/13/us/homeless-camps-supreme-court-ruling.html",
+          "id": 100000009559089,
+          "asset_id": 100000009559089,
+          "source": "New York Times",
+          "published_date": "2024-07-13",
+          "updated": "2024-07-14 11:42:23",
+          "section": "U.S.",
+          "subsection": "",
+          "nytdsection": "u.s.",
+          "adx_keywords": "Homeless Persons;Law and Legislation;Urban Areas;Local Government;Supreme Court (US);Burien (Wash);Grants Pass (Ore);Lancaster (Calif);Los Angeles (Calif);San Francisco (Calif)",
+          "column": null,
+          "byline": "By Shawn Hubler and Mike Baker",
+          "type": "Article",
+          "title": "After Homelessness Ruling, Cities Weigh Whether to Clear Encampments",
+          "abstract": "The Supreme Court decided last month that cities could cite homeless campers. Some say ‘clear them all.’ Others are ramping up outreach.",
+          "des_facet": [
+              "Homeless Persons",
+              "Law and Legislation",
+              "Urban Areas",
+              "Local Government"
+          ],
+          "org_facet": [
+              "Supreme Court (US)"
+          ],
+          "per_facet": [],
+          "geo_facet": [
+              "Burien (Wash)",
+              "Grants Pass (Ore)",
+              "Lancaster (Calif)",
+              "Los Angeles (Calif)",
+              "San Francisco (Calif)"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "A cleanup crew clears out an encampment near homes in Folsom, Calif., on Thursday. ",
+                  "copyright": "Andri Tambunan for The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/13nat-homeless-response-01-vchj/13nat-homeless-response-01-vchj-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/13nat-homeless-response-01-vchj/13nat-homeless-response-01-vchj-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/13nat-homeless-response-01-vchj/13nat-homeless-response-01-vchj-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/5a6bfc28-7dfd-543f-bd1f-3f067b56b6b7",
+          "url": "https://www.nytimes.com/2024/07/14/us/politics/photo-path-trump-assassination.html",
+          "id": 100000009570453,
+          "asset_id": 100000009570453,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-14 19:41:54",
+          "section": "U.S.",
+          "subsection": "Politics",
+          "nytdsection": "u.s.",
+          "adx_keywords": "Assassinations and Attempted Assassinations;Presidential Election of 2024;United States Politics and Government;Photography;Trump, Donald J;Crooks, Thomas Matthew (2003-24);Mills, Doug;New York Times;Butler (Pa)",
+          "column": null,
+          "byline": "By John Ismay",
+          "type": "Article",
+          "title": "Photo Appears to Capture Path of Bullet Used in Assassination Attempt",
+          "abstract": "Michael Harrigan, a retired F.B.I. special agent, said the image captured by Doug Mills, a New York Times photographer, seems to show a bullet streaking past former President Donald J. Trump.",
+          "des_facet": [
+              "Assassinations and Attempted Assassinations",
+              "Presidential Election of 2024",
+              "United States Politics and Government",
+              "Photography"
+          ],
+          "org_facet": [
+              "New York Times"
+          ],
+          "per_facet": [
+              "Trump, Donald J",
+              "Crooks, Thomas Matthew (2003-24)",
+              "Mills, Doug"
+          ],
+          "geo_facet": [
+              "Butler (Pa)"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "An annotated photo showing what appears to be a projectile passing by Donald J. Trump during a rally in Butler, Pa., on Saturday.",
+                  "copyright": "Doug Mills/The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/08/13/us/politics/13election-live-photo-assess/13election-live-photo-assess-thumbStandard-v2.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/08/13/us/politics/13election-live-photo-assess/13election-live-photo-assess-mediumThreeByTwo210-v2.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/08/13/us/politics/13election-live-photo-assess/13election-live-photo-assess-mediumThreeByTwo440-v2.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://interactive/bb8ee65e-952f-5f8f-8b93-82f8cbe2e405",
+          "url": "https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html",
+          "id": 100000009543171,
+          "asset_id": 100000009543171,
+          "source": "New York Times",
+          "published_date": "2024-07-07",
+          "updated": "2024-07-15 10:44:50",
+          "section": "Books",
+          "subsection": "",
+          "nytdsection": "books",
+          "adx_keywords": "Books and Literature;vis-design;Twenty-First Century;internal-truncator",
+          "column": null,
+          "byline": "By The New York Times Books Staff",
+          "type": "Interactive",
+          "title": "The 100 Best Books of the 21st Century",
+          "abstract": "As voted on by 503 book lovers — with a little help from the staff of The New York Times Book Review.",
+          "des_facet": [
+              "Books and Literature",
+              "vis-design",
+              "Twenty-First Century",
+              "internal-truncator"
+          ],
+          "org_facet": [],
+          "per_facet": [],
+          "geo_facet": [],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "",
+                  "caption": "",
+                  "copyright": "Julia Gartland for The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/12/books/review/1221stCentury-Day5/1221stCentury-Day5-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/12/books/review/1221stCentury-Day5/1221stCentury-Day5-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/12/books/review/1221stCentury-Day5/1221stCentury-Day5-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/8dd67abc-3956-5f53-8d84-e1ce92ac029f",
+          "url": "https://www.nytimes.com/2024/07/14/arts/design/trump-photo-raised-fist.html",
+          "id": 100000009570719,
+          "asset_id": 100000009570719,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-14 19:01:27",
+          "section": "Arts",
+          "subsection": "Art & Design",
+          "nytdsection": "arts",
+          "adx_keywords": "Television;Photography;Presidential Election of 2024;News and News Media;Assassinations and Attempted Assassinations;Copley, John Singleton;Delacroix, Eugene (1798-1863);Mills, Doug;Trump, Donald J;New York Times",
+          "column": null,
+          "byline": "By Jason Farago",
+          "type": "Article",
+          "title": "The Photographs That Made Trump an Incarnation of Defiance",
+          "abstract": "In video footage, everything was pandemonium. It was still images that defined the attack and its aftermath.",
+          "des_facet": [
+              "Television",
+              "Photography",
+              "Presidential Election of 2024",
+              "News and News Media",
+              "Assassinations and Attempted Assassinations"
+          ],
+          "org_facet": [
+              "New York Times"
+          ],
+          "per_facet": [
+              "Copley, John Singleton",
+              "Delacroix, Eugene (1798-1863)",
+              "Mills, Doug",
+              "Trump, Donald J"
+          ],
+          "geo_facet": [],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "A photo of former President Donald J. Trump raising his fist after he was shot during a campaign rally is becoming one of the defining images of the attack.",
+                  "copyright": "Doug Mills/The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/trump-closeread-wpbf/trump-closeread-wpbf-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/trump-closeread-wpbf/trump-closeread-wpbf-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/trump-closeread-wpbf/trump-closeread-wpbf-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/f5e29ece-b9dd-5a6e-ac84-d41063c6d809",
+          "url": "https://www.nytimes.com/2024/07/14/us/heat-wave-pavement-burns.html",
+          "id": 100000009568520,
+          "asset_id": 100000009568520,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-15 01:30:10",
+          "section": "U.S.",
+          "subsection": "",
+          "nytdsection": "u.s.",
+          "adx_keywords": "Burns;Heat and Heat Waves;Sidewalks;Roads and Traffic;Las Vegas (Nev);Arizona",
+          "column": null,
+          "byline": "By Adeel Hassan and Isabelle Taft",
+          "type": "Article",
+          "title": "Burns From Scorching-Hot Sidewalks and Roads Are Rising, and Can Be Fatal",
+          "abstract": "The risk of serious contact burns is increasing as temperatures soar and as more people move to the desert Southwest.",
+          "des_facet": [
+              "Burns",
+              "Heat and Heat Waves",
+              "Sidewalks",
+              "Roads and Traffic"
+          ],
+          "org_facet": [],
+          "per_facet": [],
+          "geo_facet": [
+              "Las Vegas (Nev)",
+              "Arizona"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Stephen Cantwell at the University Medical Center’s burn care center on Saturday. Mr. Cantwell got second- and third-degree burns after passing out on the sidewalk in Las Vegas in June.",
+                  "copyright": "Mikayla Whitmore for The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14nat-heat-burns-01-tmgl/14nat-heat-burns-01-tmgl-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14nat-heat-burns-01-tmgl/14nat-heat-burns-01-tmgl-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14nat-heat-burns-01-tmgl/14nat-heat-burns-01-tmgl-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/2d76e58d-5b18-5255-b730-1ea75478a33f",
+          "url": "https://www.nytimes.com/2024/07/14/us/politics/trump-chart-rally.html",
+          "id": 100000009570900,
+          "asset_id": 100000009570900,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-14 15:47:08",
+          "section": "U.S.",
+          "subsection": "Politics",
+          "nytdsection": "u.s.",
+          "adx_keywords": "United States Politics and Government;Assassinations and Attempted Assassinations;Presidential Election of 2024;Trump, Donald J;Jackson, Ronny L;Butler (Pa)",
+          "column": null,
+          "byline": "By Maggie Haberman and Jonathan Swan",
+          "type": "Article",
+          "title": "Trump Credits Chart for Saving His Life, His Former White House Doctor Says",
+          "abstract": "The former president said he would have been struck “right in the head” if he hadn’t turned and pointed at an immigration chart, Dr. Ronny Jackson said in an interview.",
+          "des_facet": [
+              "United States Politics and Government",
+              "Assassinations and Attempted Assassinations",
+              "Presidential Election of 2024"
+          ],
+          "org_facet": [],
+          "per_facet": [
+              "Trump, Donald J",
+              "Jackson, Ronny L"
+          ],
+          "geo_facet": [
+              "Butler (Pa)"
+          ],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Donald J. Trump was pointing at an immigration chart when shots rang out on Saturday at his rally in Butler, Pa.",
+                  "copyright": "Eric Lee/The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14pol-trump-status-ljht/14pol-trump-status-ljht-thumbStandard-v2.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14pol-trump-status-ljht/14pol-trump-status-ljht-mediumThreeByTwo210-v2.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/multimedia/14pol-trump-status-ljht/14pol-trump-status-ljht-mediumThreeByTwo440-v2.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/48374edd-e4ec-5c20-8825-ed020c991ac9",
+          "url": "https://www.nytimes.com/2024/07/13/opinion/joe-biden-president.html",
+          "id": 100000009569675,
+          "asset_id": 100000009569675,
+          "source": "New York Times",
+          "published_date": "2024-07-13",
+          "updated": "2024-07-14 19:27:20",
+          "section": "Opinion",
+          "subsection": "",
+          "nytdsection": "opinion",
+          "adx_keywords": "United States Politics and Government;Presidential Election of 2024;Sanders, Bernard;Biden, Joseph R Jr;Trump, Donald J;Democratic Party;Senate",
+          "column": null,
+          "byline": "By Bernie Sanders",
+          "type": "Article",
+          "title": "Bernie Sanders: Joe Biden for President",
+          "abstract": "Enough! It’s time for Democrats to stop the bickering and nit-picking.",
+          "des_facet": [
+              "United States Politics and Government",
+              "Presidential Election of 2024"
+          ],
+          "org_facet": [
+              "Democratic Party",
+              "Senate"
+          ],
+          "per_facet": [
+              "Sanders, Bernard",
+              "Biden, Joseph R Jr",
+              "Trump, Donald J"
+          ],
+          "geo_facet": [],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "",
+                  "copyright": "Damon Winter/The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/13sanders-kqfg/13sanders-kqfg-thumbStandard-v2.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/13sanders-kqfg/13sanders-kqfg-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/13/multimedia/13sanders-kqfg/13sanders-kqfg-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/d8d49de9-7355-5c39-8543-eccf9139715e",
+          "url": "https://www.nytimes.com/2024/07/12/magazine/diddy-sean-combs.html",
+          "id": 100000009545512,
+          "asset_id": 100000009545512,
+          "source": "New York Times",
+          "published_date": "2024-07-12",
+          "updated": "2024-07-14 15:19:04",
+          "section": "Magazine",
+          "subsection": "",
+          "nytdsection": "magazine",
+          "adx_keywords": "Domestic Violence;Sex Crimes;Rap and Hip-Hop;Assaults;Combs, Sean;Ventura, Cassandra (Cassie)",
+          "column": null,
+          "byline": "By Danyel Smith",
+          "type": "Article",
+          "title": "I Knew Diddy for Years. What I Now Remember Haunts Me.",
+          "abstract": "Looking back on my life as a woman in the music industry, I’m unsettled by the inescapable sexism perpetrated by Sean Combs and others.",
+          "des_facet": [
+              "Domestic Violence",
+              "Sex Crimes",
+              "Rap and Hip-Hop",
+              "Assaults"
+          ],
+          "org_facet": [],
+          "per_facet": [
+              "Combs, Sean",
+              "Ventura, Cassandra (Cassie)"
+          ],
+          "geo_facet": [],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "",
+                  "copyright": "Artwork by David Samuel Stern",
+                  "approved_for_syndication": 0,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/magazine/14mag-Diddy-openerart/14mag-Diddy-openerart-thumbStandard-v2.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/magazine/14mag-Diddy-openerart/14mag-Diddy-openerart-mediumThreeByTwo210-v2.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/14/magazine/14mag-Diddy-openerart/14mag-Diddy-openerart-mediumThreeByTwo440-v2.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://interactive/a1b2c94a-8b94-5138-b03a-59bd9d07de80",
+          "url": "https://www.nytimes.com/interactive/2024/books/21st-century-books-read-next.html",
+          "id": 100000009566464,
+          "asset_id": 100000009566464,
+          "source": "New York Times",
+          "published_date": "2024-07-12",
+          "updated": "2024-07-12 05:02:16",
+          "section": "Books",
+          "subsection": "",
+          "nytdsection": "books",
+          "adx_keywords": "vis-design;Writing and Writers;Books and Literature;Twenty-First Century",
+          "column": null,
+          "byline": "By The New York Times Books Staff",
+          "type": "Interactive",
+          "title": "That’s a Dizzying List! Help Me Choose a Book.",
+          "abstract": "There’s no getting around the fact that the list of the 100 Best Books of the 21st Century is… daunting. Want to start reading a new book right away? We can help.",
+          "des_facet": [
+              "vis-design",
+              "Writing and Writers",
+              "Books and Literature",
+              "Twenty-First Century"
+          ],
+          "org_facet": [],
+          "per_facet": [],
+          "geo_facet": [],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "",
+                  "caption": "",
+                  "copyright": "The New York Times",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/11/books/books-spiral/books-spiral-thumbStandard.png",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/11/books/books-spiral/books-spiral-mediumThreeByTwo210.png",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/11/books/books-spiral/books-spiral-mediumThreeByTwo440.png",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      },
+      {
+          "uri": "nyt://article/3de8f715-48bd-5219-8bc1-4536fb91cfbf",
+          "url": "https://www.nytimes.com/2024/07/14/arts/television/shannen-doherty-dead.html",
+          "id": 100000006747240,
+          "asset_id": 100000006747240,
+          "source": "New York Times",
+          "published_date": "2024-07-14",
+          "updated": "2024-07-15 10:32:13",
+          "section": "Arts",
+          "subsection": "Television",
+          "nytdsection": "arts",
+          "adx_keywords": "Deaths (Obituaries);Television;Breast Cancer;Actors and Actresses;Nineteen Hundred Nineties;Doherty, Shannen",
+          "column": null,
+          "byline": "By Katie Rogers",
+          "type": "Article",
+          "title": "Shannen Doherty, ‘Beverly Hills, 90210’ Star, Dies at 53",
+          "abstract": "Ms. Doherty, who also had roles in the TV series “Charmed” and the comedy-thriller “Heathers,” had continued to work after a breast cancer diagnosis.",
+          "des_facet": [
+              "Deaths (Obituaries)",
+              "Television",
+              "Breast Cancer",
+              "Actors and Actresses",
+              "Nineteen Hundred Nineties"
+          ],
+          "org_facet": [],
+          "per_facet": [
+              "Doherty, Shannen"
+          ],
+          "geo_facet": [],
+          "media": [
+              {
+                  "type": "image",
+                  "subtype": "photo",
+                  "caption": "Doherty with Jason Priestley, left, and Brian Austin Green in “Beverly Hills 90210” in 1993. The series, full of catfights and relationship spats, was an instant cult hit.",
+                  "copyright": "The Everett Collection",
+                  "approved_for_syndication": 1,
+                  "media-metadata": [
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/00xp-DPHERTY-5/00xp-DPHERTY-5-thumbStandard.jpg",
+                          "format": "Standard Thumbnail",
+                          "height": 75,
+                          "width": 75
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/00xp-DPHERTY-5/00xp-DPHERTY-5-mediumThreeByTwo210.jpg",
+                          "format": "mediumThreeByTwo210",
+                          "height": 140,
+                          "width": 210
+                      },
+                      {
+                          "url": "https://static01.nyt.com/images/2024/07/15/multimedia/00xp-DPHERTY-5/00xp-DPHERTY-5-mediumThreeByTwo440.jpg",
+                          "format": "mediumThreeByTwo440",
+                          "height": 293,
+                          "width": 440
+                      }
+                  ]
+              }
+          ],
+          "eta_id": 0
+      }
   ]
 }
