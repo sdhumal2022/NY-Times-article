@@ -1,0 +1,47 @@
+@import '../../styles/globalSass/variable.scss';
+
+.mainBanner{
+    display: flex;
+    margin-top: 7rem;
+    @media only screen and (max-width:$media-mobile){
+        flex-direction: column-reverse;
+    margin-top: 4.8rem;
+    justify-content: space-between;
+    }
+
+    .contentSec {
+        width: 100%;
+        min-height: 250px;
+        text-align: center;
+        background: #c76060;
+        color: $clr-root;
+        font-family:$font-bold;
+        font-size: 48px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        &::after {
+            width: 102px;
+            height: 8px;
+            background-color: $clr-root;
+            content: "";
+            bottom: 50px;
+            margin: 0 auto;
+            position: absolute;
+            @media only screen and (max-width:$media-mobile){
+                bottom: 35px;
+                height: 4px;
+            }
+          }
+        @media only screen and (max-width:$media-mobile){
+            width: 100%;
+            margin: -2rem auto 0;
+            min-height: 15rem;
+            font-size: 2.4rem;
+        }
+      }
+
+      
+}
