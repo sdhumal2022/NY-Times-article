@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "title": "Title 1",
+      "source": "Source 1",
+      "published_date": "2023-07-01",
+      "url": "http://example.com/article1",
+      "abstract": "Abstract 1",
+      "media": [
+        {
+          "type": "image",
+          "media-metadata": [
+            { "url": "http://example.com/image1_small.jpg", "height": 75, "width": 75 },
+            { "url": "http://example.com/image1_medium.jpg", "height": 150, "width": 150 },
+            { "url": "http://example.com/image1_large.jpg", "height": 300, "width": 300 }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Title 2",
+      "source": "Source 2",
+      "published_date": "2023-07-02",
+      "url": "http://example.com/article2",
+      "abstract": "Abstract 2",
+      "media": [
+        {
+          "type": "image",
+          "media-metadata": [
+            { "url": "http://example.com/image2_small.jpg", "height": 75, "width": 75 },
+            { "url": "http://example.com/image2_medium.jpg", "height": 150, "width": 150 },
+            { "url": "http://example.com/image2_large.jpg", "height": 300, "width": 300 }
+          ]
+        }
+      ]
+    }
+  ]
+}
